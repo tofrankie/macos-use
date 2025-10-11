@@ -41,7 +41,7 @@
   - [Install Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html)
   - [List of Xcode Command Line Tools](https://mac.install.guide/commandlinetools/8.html)
 - [Homebrew](https://brew.sh/)：不多说，使用 macOS 开发的同学必备。绝大多数开发工具都可以通过 Homebrew 进行安装/更新/卸载，包括像 Chrome 等 GUI 应用。⭐️⭐️⭐️⭐️⭐️
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/toFrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/)：如果使用 zsh 作为默认 Shell，那么 omz 能极大地减轻配置的复杂性，兼容 bash 的同时，Tab 补全更强大，以及有着丰富的主题和插件。此前在这篇[文章](https://github.com/tofrankie/blog/issues/28)介绍过。⭐️⭐️⭐️⭐️⭐️
 - [draw.io](https://www.drawio.com/): 一个免费的在线/离线作图软件，支持时序图、UML 等各种图，桌面版支持各操作系统。⭐️⭐️⭐️⭐️⭐️
 - ...
 
@@ -59,9 +59,9 @@
 
 ## Visual Studio Code
 
-- [常用 VS Code 扩展推荐](https://github.com/toFrankie/blog/issues/43)
-- [用好 VS Code 快捷键](https://github.com/toFrankie/blog/issues/317)
-- [使用 VS Code + Github 搭建个人博客](https://github.com/toFrankie/blog/issues/327)
+- [常用 VS Code 扩展推荐](https://github.com/tofrankie/blog/issues/43)
+- [用好 VS Code 快捷键](https://github.com/tofrankie/blog/issues/317)
+- [使用 VS Code + Github 搭建个人博客](https://github.com/tofrankie/blog/issues/327)
 
 ## Raycast
 
@@ -81,7 +81,7 @@ Alfred 不思进取，成功入坑 Raycast。
 
 - [有道翻译](https://github.com/wensonsmith/YoudaoTranslator)
 - [GitHub Workflow for Alfred](https://github.com/gharlan/alfred-github-workflow)
-- [alfred-open-with-vscode](https://github.com/toFrankie/alfred-open-with-vscode)
+- [alfred-open-with-vscode](https://github.com/tofrankie/alfred-open-with-vscode)
 
 <!-- 内容请在此处前面插入 -->
 </div>
