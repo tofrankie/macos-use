@@ -1,5 +1,3 @@
-<div style="font-size: 14px">
-
 ![](./images/cover.png)
 
 我们知道，Apple 的硬件虽然不一定是行业顶尖，但凭借出色的软硬件结合，往往能带来优秀的用户体验。不过，由于用户群体和应用场景的多样性，人们对“好产品”的定义也各不相同，macOS 自然也不例外。
@@ -19,6 +17,7 @@
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)：Finder 增强插件，提供了显示隐藏文件、路径拷贝、从这里启动、新建文件等便捷功能，可惜颜值没跟上 Finder。⭐️⭐️⭐️⭐️⭐️
 - [TotalFinder](https://totalfinder.binaryage.com/)：Fiander 增强插件，特色是彩色标签、Chrome-Style Tab。⭐️⭐️⭐️⭐️⭐️
 - [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?mt=12)：一款免费无广告的解压缩工具，比内置的「归档实用工具」支持更多主流格式。
+- [ClashFX](https://clashfx.com)：原 [ClashX](https://github.com/yichengchen/clashX) 的替代品 ⭐️⭐️⭐️⭐️
 - ...
 
 > 目前最新版的 XtraFinder v1.9 在 macOS Sequoia 上有点问题，直接点击 Finder 图标无法打开，需要右键新建窗口。
@@ -83,6 +82,3 @@ Alfred 不思进取，成功入坑 Raycast。
 - [有道翻译](https://github.com/wensonsmith/YoudaoTranslator)
 - [GitHub Workflow for Alfred](https://github.com/gharlan/alfred-github-workflow)
 - [alfred-open-with-vscode](https://github.com/tofrankie/alfred-open-with-vscode)
-
-<!-- 内容请在此处前面插入 -->
-</div>
