@@ -10,7 +10,7 @@
 
 通过安装一些软件、插件来提高系统级别的软件体验。
 
-- [Raycast](https://www.raycast.com/?via=73820f)：替换 Alfred 的工作。尽管一些功能需要付费订阅，但免费功能足够好用。免费订阅可以将配置导出 iCloud Drive 来达到数据同步的效果 ⭐️⭐️⭐️⭐️⭐️
+- [Raycast](https://www.raycast.com/?via=tofrankie)：替换 Alfred 的工作。尽管一些功能需要付费订阅，但免费功能足够好用。免费订阅可以将配置导出 iCloud Drive 来达到数据同步的效果 ⭐️⭐️⭐️⭐️⭐️
 - ~~[Alfred](https://www.alfredapp.com/)：一个可替代 Spotlight 的强大效率工具，比如网页搜索、历史剪贴板、自定义 Workflows 等~~（已入坑 Raycast，目前基本是只用它的历史剪贴板功能）⭐️⭐️
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)：可自行调节触控板、鼠标方向的开源软件，如果还是习惯 Windows 下的鼠标逻辑，但又同时喜欢 macOS 触控板的自然方向，那么它可以帮助到你 ⭐️⭐️⭐️⭐️⭐️
 - [Itsycal for Mac](https://www.mowglii.com/itsycal/)：一个小巧、高颜值、功能强大的菜单栏日历工具。查看近期日程等，在菜单栏就能完成，无需再打开系统日历 📅 了 ⭐️⭐️⭐️⭐️⭐️
@@ -71,13 +71,13 @@ Alfred 不思进取，成功入坑 Raycast
 
 Recommended Extensions：
 
-- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects?via=73820f)：快速打开最近项目
+- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects?via=tofrankie)：快速打开最近项目
 - [GitHub Navigator](https://github.com/tofrankie/raycast-github-navigator)：用于快速访问个人 GitHub 仓库
-- [DeepWiki](https://www.raycast.com/vivek/deepwiki?via=73820f)：搜索 DeepWiki 索引过的仓库
-- [WeChat DevTool](https://www.raycast.com/tofrankie/wechat-devtool?via=73820f)：用于快速打开小程序项目
-- [Sourcetree](https://www.raycast.com/i906/sourcetree?via=73820f)：用于打开指定 Sourcetree 指定仓库
-- [Atlassian Data Center](https://www.raycast.com/tofrankie/atlassian-data-center?via=73820f)：用于搜索、管理 Confluence、Jira 内容（适用于私有部署版本）
-- [Kill Process](https://www.raycast.com/rolandleth/kill-process?via=73820f)：用于查看进程 CPU 或内存占用情况
+- [DeepWiki](https://www.raycast.com/vivek/deepwiki?via=tofrankie)：搜索 DeepWiki 索引过的仓库
+- [WeChat DevTool](https://www.raycast.com/tofrankie/wechat-devtool?via=tofrankie)：用于快速打开小程序项目
+- [Sourcetree](https://www.raycast.com/i906/sourcetree?via=tofrankie)：用于打开指定 Sourcetree 指定仓库
+- [Atlassian Data Center](https://www.raycast.com/tofrankie/atlassian-data-center?via=tofrankie)：用于搜索、管理 Confluence、Jira 内容（适用于私有部署版本）
+- [Kill Process](https://www.raycast.com/rolandleth/kill-process?via=tofrankie)：用于查看进程 CPU 或内存占用情况
 
 ## Alfred Workflows
 
